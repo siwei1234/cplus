@@ -1,0 +1,3 @@
+﻿  test.cpp
+d:\cpp\findlengthoflcis\findlengthoflcis\test.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+  findLengthOfLCIS.vcxproj -> D:\cpp\findLengthOfLCIS\Debug\findLengthOfLCIS.exe
